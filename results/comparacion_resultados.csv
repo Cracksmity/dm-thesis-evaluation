@@ -1,0 +1,4 @@
+escenario,accuracy_media,accuracy_std,f1_macro_media,n_features,features_eliminadas
+Fase 2 (sin Longitud),0.44050000000000006,0.0585,0.41879107885578476,29,0
+Fase 4 (reducido),0.21150000000000002,0.11513144661646531,0.1652916341715007,18,11
+Artículo DT,0.834,,,19,N/A (artículo)
