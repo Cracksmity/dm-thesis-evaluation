@@ -1,4 +1,4 @@
-escenario,accuracy_media,accuracy_std,f1_macro_media,n_features,features_eliminadas
-Fase 2 (sin Longitud),0.44050000000000006,0.0585,0.41879107885578476,29,0
-Fase 4 (reducido),0.21150000000000002,0.11513144661646531,0.1652916341715007,18,11
-Artículo DT,0.834,,,19,N/A (artículo)
+escenario,accuracy_cv_media,accuracy_cv_std,accuracy_test,f1_macro_cv_media,n_features,features_eliminadas
+Fase 2 (sin Longitud),0.44375,0.10222142021122578,0.475,0.41547030747030744,29,0
+Fase 4 (reducido),0.3,0.12022115038544591,0.475,0.27420923520923524,18,11
+Artículo DT,0.834,,,,19,N/A (artículo)
